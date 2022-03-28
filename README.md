@@ -12,10 +12,10 @@
 
 Content Authors:
 
--Amaela Wiley
--John Hayes Jr
--Garba Moussa
--Cherie Kabba
+*Amaela Wiley
+*John Hayes Jr
+*Garba Moussa
+*Cherie Kabba
 
 
 
