@@ -1,6 +1,25 @@
+
+
+
+
+
+
+
+
 # Serverless Game Contest
 
 **This is not an officially supported Google product**
+
+Content Authors:
+
+-Amaela Wiley
+-John Hayes Jr
+-Garba Moussa
+-Cherie Kabba
+
+
+
+
 
 This repository contains code that can be used as is or modified to run
 a programming contest where participants write game playing apps as
